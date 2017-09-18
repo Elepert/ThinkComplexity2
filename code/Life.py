@@ -34,7 +34,7 @@ class Life(Cell2D):
                        [1, 1, 1]])
 
     table = np.zeros(20, dtype=np.uint8)
-    table[[3, 12, 13]] = 1
+    table[[2, 12, 15]] = 1
 
     def step(self):
         """Executes one time step."""
@@ -67,8 +67,8 @@ def main(script, *args):
         '01'
     ]
 
-    n = 400
-    m = 600
+    n = 1000
+    m = 1000
     life = Life(n, m)
 
     col = 120
