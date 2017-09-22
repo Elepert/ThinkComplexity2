@@ -1,5 +1,4 @@
-### Bibliography2: "Applying complexity science to air traffic management"
-How the science of complex networks can help developing strategies against terrorism  
+### "Applying complexity science to air traffic management"
 Cook, Blom, Lillo, et al., Journal of Air Transport Management(2014) 1-10
 <http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=2850A03B6D009C6A9A8374D4D3BEC718?doi=10.1.1.700.4537&rep=rep1&type=pdf>
 
